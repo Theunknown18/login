@@ -1,0 +1,53 @@
+body 
+{
+background-image:url('lol4.jpg');
+background-repeat: no-repeat;
+background-size:1980px 1080px;
+font-family: Arial, Helvetica, sans-serif;
+}
+form
+{
+padding-left:400px;
+padding-right:400px;
+border: 3px solid #f1f1f1;
+}
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+ 
+}
+
+img 
+{
+
+margin:5px;
+width: 10%;
+border-radius: 50%;
+}
+
+input[type=button]
+{background-color:#04AA6D;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+input[type=reset]
+{
+  cursor: pointer;
+  width: auto;
+  padding: 10px 18px;
+  background-color: #f44336;
+}
+.1
+{color:white;
+}
+H1{
+TEXT-ALIGN:CENTER;
+COLOR:#04AA6D;
+}

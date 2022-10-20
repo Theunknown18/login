@@ -1,0 +1,27 @@
+body 
+{
+background-image:url("lol4.jpg");
+}
+
+.topnav {
+  overflow: hidden;
+  border:3px solid green;
+  padding:10px;
+}
+input[type=button]
+{
+  background-color:#04AA6D;
+  color:white;
+  cursor:pointer;
+  text-decoration: none;
+  float: left;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+} 
+input[type=button]:hover
+{
+ background-color:#ff99c7;
+ color:white;
+ }

@@ -1,0 +1,143 @@
+
+<html>
+<head>
+<link rel="stylesheet" href="2.css">
+<title>HOMEPAGE</title>
+<body> 
+  <div class="topnav">
+  <a href="#home"><input type="button" value="Home"></a>&nbsp
+  <a href="https://news.google.com/topstories?hl=en-IN&gl=IN&ceid=IN:en" target="_blank"><input type="button" value="News"></a>&nbsp
+  <a href="#about"><input type="button" value="About"></a>&nbsp
+  <a href="https://www.equalityhumanrights.com/en/human-rights-act/article-10-freedom-expression#:~:text=Article%2010%20of%20the%20Human%20Rights%20Act%3A%20Freedom%20of%20expression&text=Everyone%20has%20the%20right%20to,authority%20and%20regardless%20of%20frontiers."target="_blank"><input type="button" value="REFER"></a>&nbsp
+  <a href="calc.html"><input type="button" value="CALC"></a><br>
+  </div>
+  <h1>About us</h1>
+  <p>Free Speech For People, a national non-profit non-partisan organization, is a catalyzing leader in the country challenging big money in politics, confronting corruption in government, fighting for free and fair elections, and advancing a new jurisprudence grounded in the promises of political equality and democratic self-government.  Through our cutting-edge legal advocacy, public education, and organizing work, we are at the forefront of a movement across the country to defend our Constitution and to reclaim our democracy.
+
+Since our founding in January 2010, on the day of the Supreme Court decision in Citizens United v. FEC, we have launched innovative and groundbreaking legal actions to ensure people can participate equally and meaningfully in our democracy; advocated for model legislation to defend our core democratic principles and our Constitution; advanced new laws to end the big money dominance in our elections and promote political equality for all; worked with lawmakers at the federal, state, and local level to provide key legal expertise and analysis on matters related to our democracy; challenged corruption at the highest levels of our government; and engaged in public education and organizing in communities across the country to reclaim our democracy for we, the people.
+
+Through all of this work, Free Speech For People is a leading force in the country for defending our Constitution and fulfilling the promise of political equality for all and the vision of self-government: of, by, and for the people.</p> 
+<h2>SELECT YOUR STATE</h2>
+<SELECT>
+<OPTION>-</OPTION>
+<OPTION>Andhra Pradesh</OPTION>
+<OPTION>Arunachal Pradesh</OPTION>
+<OPTION>Assam</OPTION>
+<OPTION>Bihar</OPTION>
+<OPTION>Chhattisgarh</OPTION>
+<OPTION>Goa</OPTION>
+<OPTION>Gujarat</OPTION>
+<OPTION>Haryana</OPTION>
+<OPTION>Himachal Pradesh</OPTION>
+<OPTION>Jharkhand</OPTION>
+<OPTION>Karnataka</OPTION>
+<OPTION>Kerala</OPTION>
+<OPTION>Madhya Pradesh</OPTION>
+<OPTION>Maharashtra</OPTION>
+<OPTION>Manipur</OPTION>
+<OPTION>Meghalaya</OPTION>
+<OPTION>Mizoram</OPTION>
+<OPTION>Nagaland</OPTION>
+<OPTION>Odisha</OPTION>
+<OPTION>Punjab</OPTION>
+<OPTION>Rajasthan</OPTION>
+<OPTION>Sikkim</OPTION>
+<OPTION>Tamil Nadu</OPTION>
+<OPTION>Telangana</OPTION>
+<OPTION>Tripura</OPTION>
+<OPTION>Uttarakhand</OPTION>
+<OPTION>Uttar Pradesh</OPTION>
+<OPTION>West Bengal</OPTION>
+</SELECT>
+<p><b>State not in the list?</B> Add<a href="addstate.html">state</a></p>
+LIST OF OUR LOCATIONS
+<table border="1">
+<tr>
+<td>CITY</td>
+<td>ADRESS</td>
+</tr>
+<tr>
+<td>BANGALORE</td>
+<td>Radiant E Serve, No. 106/107, 2nd Floor, Opp Phoenix Mall, Mahadevapura Post, Whitefield Road, Bengaluru, Karnataka-560048</td>
+</tr>
+<tr>
+<td>DELHI</td>
+<td>K 22, First Floor, Lajpat Nagar Part-2, Near Vijay Sales Shop, New Delhi-110024</tD>
+</tr>
+<tr>
+<td>PUNE</td>
+<td>Vision Tech Enterprises, Shop No 24, Venktesh Market, Near Shagun Chowk, Pimpri, Pune, Maharashtra-411017</td>
+</tr>
+<tr>
+<td>MUMBAI</td>
+<td>V Care Informatics, New Excelsior Cinema ( Gr. Floor ), Wallace Street, Opp. New Union House, VT Mumbai, Maharashtra-400001</td>
+</tr>
+<tr>
+<td>KOLKATA</td>
+<td>Infotel Services, 1st Floor, Eternity Building ( Opposite Hdfc Bank ), Dn - 1, Block – Dn, College More, Saltlake City, Kolkata-700091</td>
+</tr>
+<tr>
+<TD>CHENNAI</td>
+<td>Genesis Communication, 4/210, 1st Floor, OMR Road, Above Poorvika Showroom, Kandhanchavadi, Chennai, Tamil Nadu-600096</td>
+</tr>
+<tr>
+<td>HYDERABAD</td>
+<td>Radiant E Serve, 103 A 1st Floor, Meridian Plaza, Beside Lal Bangalow, Ameerpet, Telangana-50001</td>
+</tr>
+</table>
+<h4>WHAT IS FREEDOM OF SPEECH</h4>
+<Video controls>
+<source src="yt.mp4">
+</video><br>
+<p>Freedom of speech is the right to say whatever you like about whatever you like, whenever you like, right? Wrong.
+'Freedom of speech is the right to seek, receive and impart information and ideas of all kinds, by any means.'<br>
+Freedom of speech and the right to freedom of expression applies to ideas of all kinds including those that may be deeply offensive. But it comes with responsibilities and we believe it can be legitimately restricted.
+When freedom of speech can be restricted<br>
+You might not expect us to say this, but in certain circumstances free speech and freedom of expression can be restricted.<br><br>
+ 
+Governments have an obligation to prohibit hate speech and incitement. And restrictions can also be justified if they protect specific public interest or the rights an<br><br>d reputations of others.
+ 
+Any restrictions on freedom of speech and freedom of expression must be set out in laws that must in turn be clear and concise so everyone can understand them.<br><br>
+ 
+People imposing the restrictions (whether they are governments, employers or anyone else) must be able to demonstrate the need for them, and they must be proportionate.<br><br>
+ 
+All of this has to be backed up by safeguards to stop the abuse of these restrictions and incorporate a proper appeals process.
+...and when it can't<br>
+Restrictions that do not comply with all these conditions violate freedom of expression.<br><br>
+ 
+We consider people put in prison solely for exercising their right to free speech to be prisoners of conscience.<br><br> 
+ 
+Jabbar Savalan was imprisoned after calling for protests against the government on Facebook. We considered him a prisoner of conscience and campaigned for his release. Read Jabbar's story
+Checks and balances
+Specifics<br>
+Any restriction should be as specific as possible. It would be wrong to ban an entire website because of a problem with one page.
+National security and public order<br>
+These terms must be precisely defined in law to prevent them being used as excuses for excessive restrictions.
+Morals<br>
+This is a very subjective area, but any restrictions must not be based on a single tradition or religion and must not discriminate against anyone living in a particular country.
+Rights and reputations of others<br>
+Public officials should tolerate more criticism than private individuals. So defamation laws that stop legitimate criticism of a government or public official, violate the right to free speech.
+Blasphemy<br>
+Protecting abstract concepts, religious beliefs or other beliefs or the sensibilities of people that believe them is not grounds for restricting freedom of speech.
+Media and journalists<br>
+Journalists and bloggers face particular risks because of the work they do. Countries therefore have a responsibility to protect their right to freedom of speech. Restrictions on Newspapers, TV stations, etc can affect everyone’s right to freedom of expression.
+Whistleblowers<br>
+Government should never bring criminal proceedings against anyone who reveals information about human rights abuses.<br>
+Rights and responsibilities<br>
+Free speech is one of our most important rights and one of the most misunderstood.<br><br>
+ 
+Use your freedom of speech to speak out for those that are denied theirs. But use it responsibly: it is a powerful thing.
+18 May 2020, 05:06pm<br>
+Share<br><br>
+  
+Tags<br>
+Censorship and Freedom of Expression<br>
+View all tags<br>
+ Related<br>
+Use your voice to stand up for human rights<br>
+While you’re here…</p><br>
+
+
+<a href="1.html">back</a>
+</body>
+</html>
